@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/152597609?s=400&u=c7522e1f5ec83917d18a7f265c70e581136afc65&v=4" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 30px #0f0;"/>
+</div>
 
-<!--
-**KartikGarg13/KartikGarg13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=KARTIK+GARG;NETWORK+SECURITY+ENGINEER;READY_TO_CODE" alt="Typing SVG" />
+    </a>
+  </h1>
+  <img src="https://avatars.githubusercontent.com/u/152597609?s=400&u=c7522e1f5ec83917d18a7f265c70e581136afc65&v=4" width="180" style="border-radius: 50%; border: 5px solid #00ff00; margin-top: -265px; position: relative; z-index: 10; box-shadow: 0 0 30px #00ff00; background-color: #000;" />
+ 
+</div>
+<div align="center">
+  <table style="background-color: #000000; border: 2px solid #00ff00;">
+    <tr>
+      <td align="center">
+         <p style="color: #00ff00; font-family: monospace;">ACTIVE EXPLOIT KITS:</p>
+         <img src="https://skillicons.dev/icons?i=linux,kali,python,c,cpp,git,bash,docker&perline=8&theme=dark" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <p><b>🐍 CONTRIBUTION SNAKE:</b></p>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10&section=footer"/>
+</div>
