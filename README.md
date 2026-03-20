@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/152597609?s=400&u=c7522e1f5ec83917d18a7f265c70e581136afc65&v=4" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 30px #0f0;"/>
+  <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.gif" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 30px #0f0;"/>
 </div>
 
 <div align="center">
